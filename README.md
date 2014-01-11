@@ -38,7 +38,7 @@ Easy: Fork this repo and update the URLs in this file with your own social media
 Follow me on [![alt text][2]][2.1]
 
 ### The code
-Here's the code in case you're too lazy to fork this / look at the README source
+Here's the code in case you're too lazy to [fork this](https://github.com/carlsednaoui/gitsocial/fork) / look at the [README source](https://raw.github.com/carlsednaoui/gitsocial/master/README.md).
 
     <!-- display the social media buttons in your README -->
 
