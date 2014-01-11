@@ -1,3 +1,5 @@
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
 <!-- display the social media buttons in your README -->
 
 [![alt text][1]][1.1]
@@ -29,6 +31,8 @@
 [5.1]: http://dribbble.com/carlsednaoui
 [6.1]: http://www.github.com/carlsednaoui
 
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
 ## Add social media links to your GitHub README
 Want to add some flare to your README? How about getting mad followers on Twitter?
 
@@ -39,6 +43,8 @@ Follow me on [![alt text][2]][2.1]
 
 ### The code
 Here's the code in case you're too lazy to [fork this](https://github.com/carlsednaoui/gitsocial/fork) / look at the [README source](https://raw.github.com/carlsednaoui/gitsocial/master/README.md).
+
+    <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
     <!-- display the social media buttons in your README -->
 
@@ -70,6 +76,8 @@ Here's the code in case you're too lazy to [fork this](https://github.com/carlse
     [4.1]: http://carlsed.tumblr.com
     [5.1]: http://dribbble.com/carlsednaoui
     [6.1]: http://www.github.com/carlsednaoui
+
+    <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 ### Credit
 Special thanks to [Entypo](http://www.entypo.com/) for the icons and to [Imgur](http://imgur.com/tXSoThF,1AGmwO3,yCsTjba,0o48UoR,P3YfQoD,YckIOms#1) for hosting them.
