@@ -36,7 +36,7 @@
 ## Add social media links to your GitHub README
 Want to add some flare to your README? How about getting mad followers on Twitter?
 
-Easy: Fork this repo and update the URLs in this file with your own social media URLs. You can then copy / paste into this your project's README and you're done!
+Easy: Fork this repo and update the URLs in this file with your own social media URLs. You can then copy / paste this into any of your project's README and you're done!
 
 ### Example
 Follow me on [![alt text][2]][2.1]
