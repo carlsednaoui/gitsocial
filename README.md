@@ -1,4 +1,4 @@
-# Add social links to your GitHub README
+### Add social links to your GitHub README
 
 [![alt text][1]][1.1]
 [![alt text][2]][2.1]
