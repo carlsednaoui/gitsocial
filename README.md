@@ -13,7 +13,7 @@
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
-<!-- icons with padding -->
+<!--social media icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
